@@ -1,0 +1,117 @@
+.bold{
+    font-weight: bold;
+    font-size: 1.2em;
+    
+}
+;
+
+.bold::after{
+    content:'*';
+    color: red;
+}
+    
+
+.small{
+    font-size:0.9em;
+}
+.form{
+    display: flex;
+
+
+
+}
+.form:focus{
+    width: 100px;
+}
+.first{
+    padding: 0.3em;
+}
+.last{
+    padding: 0.3em;
+}
+.email{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.email::after{
+    content: '*';
+    color: rgb(214, 29, 54);
+}
+.mail{
+    padding: 0.3em;
+}
+.rating{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.star{
+    color: orange;
+}
+.table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+tr, td{
+    text-align:center;
+    padding: 0.9em;
+}
+    
+
+ .two{
+    background-color:rgba(244, 245, 240, 0.863);
+ }  
+ .four{
+    background-color:rgba(244, 245, 240, 0.863); ;
+ } 
+
+.center{
+    
+    border-collapse: collapse;
+    width: 100%;
+                                        
+} 
+.jkl{
+    background-color:rgba(244, 245, 240, 0.863) ;
+}
+.def{
+    background-color:rgba(244, 245, 240, 0.863) ; 
+}
+.middle{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.middle::after{
+    content: '*';
+    color: red;
+}
+.satisfied{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.satisfied::after{
+    content: '*';
+    color: red;
+}
+.rating::after{
+    content: '*';
+    color: red;
+}
+.bold::after{
+    content: '*';
+    color: red;
+}
+.additional{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.text area{
+    width: 100%;
+}
+.bold{
+    width: 40%;
+}
+
+
+
+
